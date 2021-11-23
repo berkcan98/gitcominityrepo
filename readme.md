@@ -17,7 +17,7 @@ git push origin <puslanacak branch>
 git checkout geçişyapmak ve versiyonları getirmek için kullanılır.
 git log ---> tüm versiyonları döner.
 
-
+not: uzak sunucudaki brancları eklemek /oluşturmak lazım adlarıyla 
 git branch <bracnhname>  -->    yeni branch oluşturur
 git merge (birleştireceğim branch içindeyken) <üzerine yazacağım diğer branch>---> birleştirme
 git branch -d <bracnhName> --->  yerel repo içindeki bracnh ı sileriz. 
