@@ -23,8 +23,7 @@ git merge (birleştireceğim branch içindeyken) <üzerine yazacağım diğer br
 git branch -d <bracnhName> --->  yerel repo içindeki bracnh ı sileriz. 
 git push origin :<branchName> --> uzak repodeki brach silmek için kullanılır.
 
-
-
+git push origin <branch name >--> branch ı puşluyor.
 
 
 """git remote add new-remote-repo https://bitbucket.com/user/repo.git   ---> uzak sunucuya branch eklemek 
