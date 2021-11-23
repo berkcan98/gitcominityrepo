@@ -12,6 +12,8 @@ git diff
 git commit -m 
 git rm 
 
+git push origin <puslanacak branch>
+
 git checkout geçişyapmak ve versiyonları getirmek için kullanılır.
 git log ---> tüm versiyonları döner.
 
