@@ -21,7 +21,7 @@ git log ---> tüm versiyonları döner.
 git branch <bracnhname>  -->    yeni branch oluşturur
 git merge (birleştireceğim branch içindeyken) <üzerine yazacağım diğer branch>---> birleştirme
 git branch -d <bracnhName> --->  yerel repo içindeki bracnh ı sileriz. 
-git push origin :<branchName> --> uzak repodeki brach silmek için kullanılır.
+git push origin --delete <branch name > --> uzak repodeki brach silmek için kullanılır.
 
 git push origin <branch name >--> branch ı puşluyor.
 
