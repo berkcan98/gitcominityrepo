@@ -3,7 +3,7 @@
 
 bu md değiştirdim.
 
-
+bu alanda bir değişiklik yaptım.
 
 hi evrey one
 git add
